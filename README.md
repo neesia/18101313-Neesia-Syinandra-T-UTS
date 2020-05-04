@@ -1,2 +1,2 @@
-# 18101313-Neesia Syinandra-T-UTS Mobile Programming
+# siputs
 UTS Mobile Programming-Kelas T
